@@ -28,6 +28,12 @@ npm start
 
 Open http://localhost:3000
 
+## 🚀 Live demo
+
+**[https://team-task-manager-full-stack-production-fabd.up.railway.app/](https://team-task-manager-full-stack-production-fabd.up.railway.app/)**
+
+Sign up with any valid email and password (≥ 6 chars) to try it out.
+
 ## Environment variables
 
 | Var          | Default              | Notes                           |
